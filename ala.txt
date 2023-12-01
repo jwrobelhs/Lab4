@@ -1,3 +1,5 @@
 Ala
 ma 
 kota.
+Ten kotek
+skacze przez plotek.
