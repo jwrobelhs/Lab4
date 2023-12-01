@@ -1,3 +1,11 @@
 Ala
 ma 
 kota.
+Ale 
+plik 
+jest
+inny
+niz
+w 
+galezi
+main
